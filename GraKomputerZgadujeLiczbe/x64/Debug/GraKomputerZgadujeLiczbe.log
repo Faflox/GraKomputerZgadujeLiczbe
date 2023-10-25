@@ -1,0 +1,3 @@
+﻿  GraKomputerZgadujeLiczbe.cpp
+F:\Microsoft Visual Studio\Projekty\GraKomputerZgadujeLiczbe\GraKomputerZgadujeLiczbe.cpp(39,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  GraKomputerZgadujeLiczbe.vcxproj -> F:\Microsoft Visual Studio\Projekty\GraKomputerZgadujeLiczbe\x64\Debug\GraKomputerZgadujeLiczbe.exe
